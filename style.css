@@ -1,0 +1,23 @@
+.playertwo{
+    display: none;
+}
+.playerone{
+    background-color: rgb(206, 206, 0);
+    width: 300px;
+    height:100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    margin: auto;
+}
+.playertwo{
+    background-color: rgb(96, 206, 0);
+    width: 300px;
+    height:100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    margin: auto;
+}
